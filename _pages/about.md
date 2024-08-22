@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+<!-- title: "Short Bio" -->
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Maître des Conferences HDR of Computer Science at the [Ecole CentraleSupélec](https://www.centralesupelec.fr/)  at [University of Paris Saclay](https://www.universite-paris-saclay.fr/).  
+I am a Maître des Conferences HDR of Computer Science at the [Ecole CentraleSupélec](https://www.centralesupelec.fr/)  of the [University  Paris Saclay](https://www.universite-paris-saclay.fr/).  
 
 A data-driven personal website
 ======
