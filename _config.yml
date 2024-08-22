@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Paolo Ballarini"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Paolo Ballarini"
 description              : &description "personal description"
