@@ -25,7 +25,7 @@ author:
   name             : "Paolo Ballarini"
   pronouns         : # example: "she/her"  
   bio              : "Maître des Conférences HDR"
-  location         : "Earth"
+  location         : "Paris Saclay"
   employer         : "CentraleSupélec"
   uri              : # URL
   email            : "paolo.ballarini@centralesupelec.fr" 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=x33ZEbsAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-2026-2107"
   semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
