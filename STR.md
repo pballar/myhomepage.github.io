@@ -1,5 +1,5 @@
 ---
-title: "Systèmes et temps réels"
+title: "Systèmes en temps réels"
 collection: teaching
 type: "CentraleSupélec 3rd year course"
 permalink: /teaching/STR
