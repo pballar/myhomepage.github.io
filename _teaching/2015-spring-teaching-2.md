@@ -3,7 +3,8 @@ title: "Systèmes complexes industriels et critiques à logiciels prépondérant
 collection: teaching
 type: "Course 2nd Year cursus CentraleSupélec"
 permalink: /teaching/2015-spring-teaching-1
-period: Semester S5
+venue: "CentraleSupélec"
+date: Semester S5
 location: "Campus Gif-sur-Yvette"
 ---
 
