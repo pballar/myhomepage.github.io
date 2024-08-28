@@ -1,10 +1,10 @@
 ---
-title: "Systèmes complexes industriels et critiques à logiciels prépondérants"
+title: "Systèmes et temps réels"
 collection: teaching
-type: "CentraleSupélec 2nd year course"
-permalink: /teaching/2015-spring-teaching-1
+type: "CentraleSupélec 3rd year course"
+permalink: /teaching/STR
 venue: "CentraleSupélec"
-date: Semester S5
+date: Semester S8
 location: "Campus Gif-sur-Yvette"
 ---
 

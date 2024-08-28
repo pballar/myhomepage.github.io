@@ -1,7 +1,7 @@
 ---
 title: "Object Oriented Software Engineering"
 collection: teaching
-type: "CentraleSupélec 2nd year course *electif*"
+type: "CentraleSupélec 2nd year course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "CentraleSupélec"
 period: Semester S6
