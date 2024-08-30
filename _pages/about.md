@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Maître des Conferences holding a **Habilitation à Diriger des Recherches** (HDR) in Computer Science at the laboratory for [Mathematics and Informatics for Complex Systems (MICS)](https://www.mics.centralesupelec.fr/) of the [Ecole CentraleSupélec](https://www.centralesupelec.fr/)  a school of engineering which is part of the [University  Paris Saclay](https://www.universite-paris-saclay.fr/). 
+I am a *Maître des Conferences* holding a **Habilitation à Diriger des Recherches** (HDR) in Computer Science at the laboratory for [Mathematics and Informatics for Complex Systems (MICS)](https://www.mics.centralesupelec.fr/) of the [Ecole CentraleSupélec](https://www.centralesupelec.fr/)  a school of engineering which is part of the [University  Paris Saclay](https://www.universite-paris-saclay.fr/). 
 
 My principle research interests are in the area of formal methods for modelling and verification of  systems characterised by stochasticity,  concurrency and parallelism. 
 
