@@ -1,11 +1,11 @@
 ---
-title: "Systèmes complexes industriels et critiques à logiciels prépondérants"
+title: "Teaching experience 2"
 collection: teaching
-type: "CentraleSupélec 2nd year course"
+type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "CentraleSupélec"
-date: Semester S5
-location: "Campus Gif-sur-Yvette"
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
