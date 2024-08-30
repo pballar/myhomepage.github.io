@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "CentraleSupélec"
-date: Semester S6
+date: 2014-01-01
 location: "City, Country"
 ---
 
