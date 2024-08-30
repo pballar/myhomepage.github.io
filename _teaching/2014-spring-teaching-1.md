@@ -3,8 +3,7 @@ title: "Object oriented software engineering"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "CentraleSupélec"
-date: 2014-01-01
+venue: "CentraleSupélec" 
 location: "City, Country"
 ---
 
