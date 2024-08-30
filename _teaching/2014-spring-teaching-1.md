@@ -5,6 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "CentraleSupélec" 
 location: "City, Country"
+semester: "S6"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
