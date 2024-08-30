@@ -3,7 +3,7 @@ title: "Systèmes en temps réel"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2016-spring-teaching-3
-venue: CentraleSupélec"
+venue: "CentraleSupélec"
 date: 
 location: "Campus Gif-sur-Yvette"
 ---
