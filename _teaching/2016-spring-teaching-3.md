@@ -4,7 +4,7 @@ collection: teaching
 type: "Course 3rd year"
 permalink: /teaching/2016-spring-teaching-3
 venue: "CentraleSupélec"
-date: 2016-01-01
+date: - -
 location: "Campus Gif sur Yvette"
 ---
 
