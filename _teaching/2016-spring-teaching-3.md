@@ -1,7 +1,7 @@
 ---
 title: "Systèmes en temps réel"
 collection: teaching
-type: "Workshop"
+type: "Course 3rd year, CentraleSupélec"
 permalink: /teaching/2016-spring-teaching-3
 venue: "University 1, Department"
 date: 2016-01-01
