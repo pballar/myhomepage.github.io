@@ -1,19 +1,43 @@
 ---
 permalink: /
-title: ""
+title: "Associate Professor in Computer Science"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a *Maître des Conferences* holding a **Habilitation à Diriger des Recherches** (HDR) in Computer Science at the laboratory for [Mathematics and Informatics for Complex Systems (MICS)](https://www.mics.centralesupelec.fr/) of the [Ecole CentraleSupélec](https://www.centralesupelec.fr/)  a school of engineering which is part of the [University  Paris Saclay](https://www.universite-paris-saclay.fr/). 
+I am an Associate Professor (Maître de Conférences, HDR) in Computer Science at
+[CentraleSupélec](https://www.centralesupelec.fr/), Université Paris-Saclay. I am
+a member of the [MICS laboratory](https://mics.centralesupelec.fr/) (Mathématiques
+et Informatique pour la Complexité et les Systèmes) and head of the Computer
+Science Department.
 
-My principle research interests are in the area of formal methods for modelling and verification of  systems characterised by stochasticity,  concurrency and parallelism. 
+## Research
 
-I am involved in teaching computer science related courses in all 3 years of the CentraleSupélec engineering curriculum, as well as, at MSc level (master in [Data Science and Business Administration](https://www.essec.edu/en/program/master-data-sciences-business-analytics/)) 
+My research lies in **formal methods for the modelling and verification of systems
+characterised by stochasticity, concurrency and parallelism**. I am particularly
+interested in:
 
-## Short bio
-I obtained a  MSc (1999) and a PhD (2004) in Computer Science at University of Torino. I then served as postdoc researcher in computer science at different institutions including, the University of Liverpool (2004-2005),  the University of Glasgow (2006-2007), the Microsoft  research centre for Computational Systems Biology (CoSBi, in Trento), the University of Paris-Est Créteil. Since September 2011 I hold a Maître des Conferences (Lecturer)  position at Ecole CentraleSupélec (formerly Ecole Centrale Paris). In 2023 I obtained the **Habilitation à Diriger des Recherches** with a *memoire* on [Contributions to formal modelling and analysis of stochastic models ](https://theses.hal.science/tel-04335487). 
+- **Statistical and probabilistic model checking**, including expressive temporal
+  logics for stochastic systems (e.g. the Hybrid Automata Stochastic Logic, HASL);
+- **Stochastic process mining and discovery** — inferring stochastic models from
+  observed event logs, including distance-based comparison of stochastic languages
+  via the Earth Mover's Distance;
+- **Stochastic Petri nets, Markov chains and hybrid automata** as modelling
+  formalisms for quantitative analysis.
 
+I apply these techniques across several application domains, including **systems
+biology** (oscillatory dynamics such as the cell cycle and circadian rhythms,
+genetic networks), **manufacturing and production-line analysis**, and **healthcare
+and service systems**.
 
+In February 2025 I defended my Habilitation à Diriger des Recherches (HDR),
+*Contributions to formal modelling and analysis of stochastic models*.
+
+## Get in touch
+
+You can browse my [publications](/publications/) and [talks](/talks/), or reach me
+by [email](mailto:paolo.ballarini@centralesupelec.fr). My work is also listed on
+[Google Scholar](https://scholar.google.com/citations?user=x33ZEbsAAAAJ&hl=en) and
+[ORCID](https://orcid.org/0000-0002-4652-3953).
